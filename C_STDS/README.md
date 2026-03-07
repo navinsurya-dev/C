@@ -18,3 +18,11 @@ int main(){
 }
 
 Compile the above code and note the output
+
+
+use -pedantic flag to warn you if you use any features that aren't officially part of that specific standards
+
+use -gnu17 for STD C plus extra features added by the GNU Team
+
+
+
