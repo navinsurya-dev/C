@@ -1,0 +1,53 @@
+32 Keywords in C89/C90
+(ANSI C)
+
+Flow Control :
+
+1.if
+2.else
+3.switch
+4.case
+5.default
+6.break
+7.continue
+8.goto
+
+Loops:
+
+9.for
+10.while
+11.do
+
+Data Types:
+
+12.int
+13.char
+14.float
+15.double
+16.void
+
+Type Modifiers:
+
+17.short
+18.long
+19.signed
+20.unsigned
+21.const
+22.volatile
+
+Storage Classes:
+
+23.auto
+24.extern
+25.register
+26.static
+
+Structures:
+
+27.struct
+28.union
+29.enum
+30.typedef
+
+31.return 
+32.sizeof
