@@ -1,3 +1,5 @@
+Commonly Used Specifier:
+
 Specifier      DataType
 
 %d or %i       int
@@ -15,3 +17,74 @@ Specifier      DataType
 %p             void *
 
 %x             int
+
+
+
+
+Integer Format Specifier :
+
+Specifier      Data Type
+
+%d or %i       int
+
+%u             unsigned int
+
+%hd            short
+
+%ld            long int
+
+%lld           long long int
+
+%o             int
+
+%x / %X        int
+
+
+Floating Point Specifier :
+
+Specifier      Data Type
+
+%f             float
+
+%lf            double
+
+%Lf            long double
+
+%e / %E        float/double
+
+%g / %G        float/double
+
+
+
+Character and String Specifier:
+
+Specifier      Data Type
+
+%c             char
+
+%s             char[]
+
+Advanced and Technical Specifier:
+
+Specifier      Data Type
+
+%p             void *
+
+%%             None
+
+%n             int *
+
+
+
+The Anatomy of a Format Specifier:
+
+Syntax :
+
+       %[flags][width][.precision][length]type
+       flags: - (left align) ,+(show plus sign),0(pad with zeros)
+
+       width: Eg:%4d
+
+       .precision: Eg:%.4f
+
+       length: l for long or h for short
